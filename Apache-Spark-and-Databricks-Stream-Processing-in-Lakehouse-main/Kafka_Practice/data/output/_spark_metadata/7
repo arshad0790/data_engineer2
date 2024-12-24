@@ -1,0 +1,4 @@
+v1
+{"path":"file:///root/data_engineer2/Apache-Spark-and-Databricks-Stream-Processing-in-Lakehouse-main/Kafka_Practice/data/output/part-00000-32b3949e-da58-4a69-af51-e492594cbe68-c000.snappy.parquet","size":8838,"isDir":false,"modificationTime":1733983664693,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///root/data_engineer2/Apache-Spark-and-Databricks-Stream-Processing-in-Lakehouse-main/Kafka_Practice/data/output/part-00001-2d685694-dea4-48b4-8f48-27846ca1ea6f-c000.snappy.parquet","size":9598,"isDir":false,"modificationTime":1733983664693,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///root/data_engineer2/Apache-Spark-and-Databricks-Stream-Processing-in-Lakehouse-main/Kafka_Practice/data/output/part-00002-7914fee8-91d3-4099-820e-fb8b602709de-c000.snappy.parquet","size":8942,"isDir":false,"modificationTime":1733983664703,"blockReplication":1,"blockSize":33554432,"action":"add"}
